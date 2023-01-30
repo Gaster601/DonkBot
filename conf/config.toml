@@ -6,11 +6,12 @@ bot_desc ="Personal Discord Bot for Roles, Channels and Permissions";
 bot_perms = "8";
 bot_token = "";
 
-
 [settings]
 debug = false;
 
 [sql]
-url = "";
+host = 127.0.0.1;
+port = "";
+db = mariaDB;
 username = "";
 password = "";
