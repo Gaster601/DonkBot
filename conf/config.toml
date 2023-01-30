@@ -1,17 +1,17 @@
 # Main config for Bot
 
 [basic]
-bot_name = "DonkBot";
-bot_desc ="Personal Discord Bot for Roles, Channels and Permissions";
-bot_perms = "8";
-bot_token = "";
+bot_name = "DonkBot"
+bot_desc ="Personal Discord Bot for Roles, Channels and Permissions"
+bot_perms = "8"
+bot_token = ""
 
 [settings]
-debug = false;
+debug = false
 
 [sql]
-host = 127.0.0.1;
-port = "";
-db = mariaDB;
-username = "";
-password = "";
+host = 127.0.0.1
+port = ""
+db = mariaDB
+username = ""
+password = ""
