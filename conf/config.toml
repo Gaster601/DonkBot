@@ -10,8 +10,8 @@ bot_token = ""
 debug = false
 
 [sql]
-host = 127.0.0.1
+host = "127.0.0.1"
 port = ""
-db = mariaDB
+db = "mariaDB"
 username = ""
 password = ""
